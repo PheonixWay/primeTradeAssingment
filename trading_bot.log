@@ -1,0 +1,120 @@
+2026-03-29 15:26:52,191 - INFO - Binance Futures Testnet se successfully connect ho gaya.
+2026-03-29 15:29:03,373 - INFO - Binance Futures Testnet se successfully connect ho gaya.
+2026-03-29 15:33:09,068 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:33:12,560 - INFO - API KEY and Secret loaded successfully.
+2026-03-29 15:33:13,701 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:33:18,811 - INFO - API KEY and Secret loaded successfully.
+2026-03-29 15:33:20,695 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:33:46,127 - INFO - API KEY and Secret loaded successfully.
+2026-03-29 15:33:46,127 - INFO - OxcRqz29bbol3H6M8205ngrbhmlrX0C4Ty3wKTsVNCDCcnaSWR6htD3kxtZAEb8a
+2026-03-29 15:33:46,140 - INFO - qpDxs89rTlgfdlg1cJz1lnWqCvUlHwWGcqfZ9jA5PcaYvEaW7cg3gokN53SFk9ll
+2026-03-29 15:33:47,850 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:35:09,712 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:36:51,946 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:37:15,866 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:37:33,804 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:37:45,822 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:42:09,931 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:42:39,519 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:43:11,014 - ERROR - Binance API Connection Failed: HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Max retries exceeded with url: /fapi/v1/ping (Caused by NameResolutionError("HTTPSConnection(host='testnet.binancefuture.com', port=443): Failed to resolve 'testnet.binancefuture.com' ([Errno 11001] getaddrinfo failed)"))
+2026-03-29 15:43:15,348 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:43:19,092 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:43:44,669 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:45:12,287 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:47:24,067 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:47:24,075 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 15:49:05,219 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:49:05,229 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 15:49:05,423 - INFO - Order Successful! ID: 13006371577 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 15:49:08,333 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:49:08,342 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=60000.0
+2026-03-29 15:49:12,193 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:49:12,201 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=STOP_LIMIT, Qty=0.01, Price=55000.0
+2026-03-29 15:49:35,313 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:49:35,321 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=STOP_LIMIT, Qty=0.01, Price=55000.0
+2026-03-29 15:50:02,842 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:50:02,852 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 15:50:03,055 - INFO - Order Successful! ID: 13006373434 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 15:50:04,828 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:50:04,837 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=60000.0
+2026-03-29 15:50:07,250 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:50:07,257 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=STOP_LIMIT, Qty=0.01, Price=55000.0
+2026-03-29 15:50:27,198 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:51:05,222 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:51:05,232 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 15:51:05,446 - INFO - Order Successful! ID: 13006375180 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 15:51:06,813 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:51:06,821 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=60000.0
+2026-03-29 15:51:08,342 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:51:08,350 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=STOP_LIMIT, Qty=0.01, Price=55000.0
+2026-03-29 15:51:17,560 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:51:17,568 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 15:51:17,742 - INFO - Order Successful! ID: 13006375392 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 15:51:26,540 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:51:26,548 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=60000.0
+2026-03-29 15:52:13,446 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:52:13,454 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=63106.0
+2026-03-29 15:52:13,651 - INFO - Order Successful! ID: 13006377145 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 15:52:24,286 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:52:24,293 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=STOP_LIMIT, Qty=0.01, Price=55000.0
+2026-03-29 15:55:25,941 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:55:38,584 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 15:56:19,327 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 15:56:19,837 - INFO - Order Successful! ID: 13006384686 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 16:01:28,364 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 16:02:01,136 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 16:02:01,332 - INFO - Order Successful! ID: 13006393991 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 16:02:11,256 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 16:02:11,469 - INFO - Order Successful! ID: 13006394233 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 16:02:20,944 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=65899.0
+2026-03-29 16:02:21,469 - INFO - Order Successful! ID: 13006394399 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 16:02:24,201 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=6589.0
+2026-03-29 16:02:47,177 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=63136.53
+2026-03-29 16:02:52,137 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=63136.55
+2026-03-29 16:02:56,272 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=63137.0
+2026-03-29 16:03:00,729 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=63138.0
+2026-03-29 16:03:01,067 - INFO - Order Successful! ID: 13006395616 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 16:05:00,142 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=63138.0
+2026-03-29 16:05:00,371 - INFO - Order Successful! ID: 13006399233 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 16:05:04,086 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=0.01, Price=6313.0
+2026-03-29 16:05:13,450 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 16:05:30,383 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=LIMIT, Qty=1.0, Price=252.0
+2026-03-29 16:05:41,606 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=LIMIT, Qty=1.0, Price=2525.0
+2026-03-29 16:05:42,006 - INFO - Order Successful! ID: 13006400080 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 16:05:45,558 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=LIMIT, Qty=1.0, Price=252.0
+2026-03-29 16:05:47,695 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=LIMIT, Qty=1.0, Price=252.0
+2026-03-29 16:05:51,750 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=STOP_LIMIT, Qty=1.0, Price=252.0
+2026-03-29 16:05:57,951 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=LIMIT, Qty=1.0, Price=252.0
+2026-03-29 16:06:08,773 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=LIMIT, Qty=1.0, Price=2520.0
+2026-03-29 16:06:09,242 - INFO - Order Successful! ID: 13006400890 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 16:06:14,238 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=STOP_LIMIT, Qty=1.0, Price=2520.0
+2026-03-29 16:06:17,774 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=STOP_LIMIT, Qty=1.0, Price=25200.0
+2026-03-29 16:06:24,022 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=1.0, Price=25200.0
+2026-03-29 16:06:25,622 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=1.0, Price=25200.0
+2026-03-29 16:06:26,869 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=1.0, Price=25200.0
+2026-03-29 16:06:29,517 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=1.0, Price=25200.0
+2026-03-29 16:07:12,998 - INFO - Order Request: Symbol=BTCUSDT, Side=SELL, Type=LIMIT, Qty=1.0, Price=25200.0
+2026-03-29 16:08:59,913 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 16:09:18,045 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=LIMIT, Qty=1.0, Price=23.0
+2026-03-29 16:09:22,197 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=LIMIT, Qty=1.0, Price=230.0
+2026-03-29 16:09:26,725 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=LIMIT, Qty=1.0, Price=2300.0
+2026-03-29 16:09:27,329 - INFO - Order Successful! ID: 13006405528 | Status: NEW | Executed Qty: 0.000 | Avg Price: 0.00
+2026-03-29 16:13:07,459 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 16:13:58,967 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 16:15:13,209 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 16:15:13,246 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 16:15:13,247 - INFO - Order Successful! ID: 123 | Status: NEW | Executed Qty: 0.01 | Avg Price: 60000.0
+2026-03-29 16:16:15,906 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 16:16:15,918 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 16:16:15,918 - INFO - Order Successful! ID: 123 | Status: NEW | Executed Qty: 0.01 | Avg Price: 60000.0
+2026-03-29 16:16:56,270 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 16:16:56,275 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 16:16:56,275 - ERROR -  Binance API Error: Code=400 - Invalid JSON error message from Binance: {"msg": "Test error"}
+2026-03-29 16:16:56,275 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 16:16:56,276 - INFO - Order Successful! ID: 123 | Status: NEW | Executed Qty: 0.01 | Avg Price: 60000.0
+2026-03-29 16:17:03,036 - INFO - Binance Futures Testnet Connection Successful!
+2026-03-29 16:17:03,040 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 16:17:03,041 - ERROR -  Binance API Error: Code=400 - Invalid JSON error message from Binance: {"msg": "Test error"}
+2026-03-29 16:17:03,041 - INFO - Order Request: Symbol=BTCUSDT, Side=BUY, Type=MARKET, Qty=0.01, Price=None
+2026-03-29 16:17:03,042 - INFO - Order Successful! ID: 123 | Status: NEW | Executed Qty: 0.01 | Avg Price: 60000.0
+2026-03-29 16:18:05,538 - INFO - Binance Futures Testnet Connection Successful! 
