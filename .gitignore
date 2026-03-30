@@ -91,7 +91,7 @@ poetry.lock
 .vscode/
 
 # Log files
-trading_bot.log
+# trading_bot.log
 
 # OS generated files
 .DS_Store
